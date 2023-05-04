@@ -1,0 +1,60 @@
+body {
+    background-image: url("wetlands.jpg");
+    background-size: cover;
+    font-family: BlinkMacSystemFont, -apple-system, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    text-align: center;
+    color: white;
+    text-shadow: 0px 0px 2px black;
+    
+}
+.container {
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 80%;
+  
+    
+    
+    
+}
+
+h1 {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+h2 {
+    font-size: 50px;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 120px;
+    margin-bottom: 5px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    border-radius: 5px;
+    
+}
+
+#increment-btn {
+    background: #B5302B;
+}
+
+#save-btn {
+    background: #4b6c57;
+}
+
+#save-el {
+    margin-top: 50px;
+    font-weight: bold;
+    font-size: 20px;
+   
+}
